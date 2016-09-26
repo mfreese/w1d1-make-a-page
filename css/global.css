@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+ .section1 {
+    color: red;
+    font-size: 15px;
+  }
+
+.section2 {
+  color: orange;
+  font-size: 12px;
+}
+.glock40{
+  width: 50%;
+
+}
+.section3 {
+  color: white;
+  font-size: 15px;
+}
+.section4 {
+  color: yellow;
+  font-size: 15px;
+}
+img{padding-bottom: 20px;
+
+}
+img{padding-top: 20px;
+}
